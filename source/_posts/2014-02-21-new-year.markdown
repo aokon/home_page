@@ -3,7 +3,7 @@ layout: post
 title: "New year, new mind setup"
 date: 2014-02-21 21:02:43 +0100
 comments: false
-categories: 
+categories:
 ---
 
 Probably this post should be released at the beginning of new year when people mostly are making a summary the previous one.
@@ -12,7 +12,7 @@ In this post I'm going to describe some things which I would like to do during t
 
 Change thinking from "must to do" to "I like to do"
 ----------------------------------------------
-I noticed that during creating a task lists, I started thinking about them only in "must do" category. 
+I noticed that during creating a task lists, I started thinking about them only in "must do" category.
 I realized that this kind of approach, in long term, has negative impact on my work performance.
 I started research about this topic, what should be changed to bring me back the joy to may daily work.
 As always, solution is so simple. I started planing things which I like to do, not must.
@@ -20,9 +20,9 @@ As always, solution is so simple. I started planing things which I like to do, n
 Don't end the week with nothing
 -------------------------------
 This subject is related with previous one. I'm going to end the week with something that I can share results with others.
-It can be blog post, new project, doesn't matter. I found that this approach give me more motivation to learning a new things and in obtaining the objectives. 
+It can be blog post, new project, doesn't matter. I found that this approach give me more motivation to learning a new things and in obtaining the objectives.
 
-Tracking objectives 
+Tracking objectives
 -------------------
 At the end, I need better control of the my objectives, because I have feeling that I didn't accomplish all I wanted.
 
